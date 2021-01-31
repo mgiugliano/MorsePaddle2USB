@@ -40,7 +40,7 @@ While my first eBay order of a Digisparc ATTiny 85 (from China) never arrived, I
 ![plot](./photo&schematics/Breadboard_firstTest.png)
 ![plot](/photo&schematics/Breadboard_firstTest.png)
 
-[alt text](https://github.com/mgiugliano/MorsePaddle2USB/blob/master/Breadboard_firstTest.png?raw=true)
+[alt text](https://github.com/mgiugliano/MorsePaddle2USB/blob/main/photo&circuit/Schematics.png?raw=true)
 
 
 
