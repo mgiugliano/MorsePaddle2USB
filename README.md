@@ -4,12 +4,13 @@
 
 I am currently studying CW, a tradtional mode of communication in ham radio that employs Morse code. Learning to make sense of Morse coded audio signals is for me the most difficult part, while sending is considerably easier. Exercising daily is considerably boosting my skills. Recently, attending the excellent (free, online) courses by CW Academy, I discovered by chance these websites:
 
-- https://vail.woozle.org
-- https://hamradio.solutions/vband
-(but see also http://morsecode.me)
+- https://vail.woozle.org (by Neale Pickett)
+- https://hamradio.solutions/vband (by Ham Radio Solutions)
+(but see also http://morsecode.me by Burak Kanber)
 
 By means of a web browser, they allow a user to practice sending and receiving of Morse code over the internet, in real time and with real people. Receiving is throuhg the computer speakers (or headphones), while sending is implemented through key presses on the computer keyboard. The first website is the most polished and interesting to me, due to its open-source philosophy (https://github.com/nealey/vail/) and high quality of the overall experience. 
 
+I am in debt with Neale for inspiring me and for his kind availability and suggestions.
 
 ## Connecting a proper Morse straight key or paddle to the computer
 
@@ -35,7 +36,7 @@ While my first eBay order of a Digisparc ATTiny85 (from China) never arrived, I 
 - small plastic box (35x58x16mm),                             0.63 eur
 
 Note: I ordered a 2-way dip switch but later found out I did not have enough free ATTiny85 pins to use. 
-I ended up using it as a single way switch. Moreover the box I bought was not large enough to mount the jack connector. I ended up spending few more euros and purchasing another female (flying) jack and some stereo audio cable. The final result was not the best, but it was my first attempt. Please do not judge on the uncovered shielding of the audio cable: I had to remove the plastic insulation to allow it to bend more to fit in the box. I am not proud of it, ok?! :-)
+I ended up using it as a single way switch. Moreover the box I bought was not large enough to mount the jack connector. I ended up spending few more euros and purchasing another female (flying) jack and some stereo audio cable. I assembled and wired everything on a small prototype PCB, cut to share exactly the size of the Digispark. The final result was not the best, but it was my first attempt. Please do not judge on the uncovered shielding of the audio cable: I had to remove the plastic insulation to allow it to bend more to fit in the box. I am not proud of it, ok?! :-)
 
 ![](https://github.com/mgiugliano/MorsePaddle2USB/blob/main/photo&circuit/Assembly.png)
 
