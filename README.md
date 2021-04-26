@@ -2,7 +2,7 @@
 
 ## Receiving and transmitting Morse code through the web
 
-I am currently studying CW, a tradtional mode of communication in ham radio that employs Morse code. Learning to make sense of Morse coded audio signals is for me the most difficult part, while sending is considerably easier. Exercising daily is considerably boosting my skills. Recently, attending the excellent (free, online) courses by CW Academy, I discovered by chance these websites:
+I am currently studying CW, a traditional mode of communication in ham radio that employs Morse code. Learning to make sense of Morse coded audio signals is for me the most difficult part, while sending is considerably easier. Exercising daily is considerably boosting my skills. Recently, attending the excellent (free, online) courses by CW Academy, I discovered by chance these websites:
 
 - https://vail.woozle.org (by Neale Pickett)
 - https://hamradio.solutions/vband (by Ham Radio Solutions)
